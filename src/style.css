@@ -1,0 +1,78 @@
+html, body {
+	font-family: sans-serif;
+	background: #000;
+	color: #ddd;
+}
+
+.sidebar {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	background: #000 url('/grid.jpg') no-repeat top left;
+	border-right: 1px #444 dotted;
+}
+
+.head {
+	margin-top: 14em;
+	text-align: center;
+}
+
+.head p {
+	margin-left: 2em;
+	margin-right: 2em;
+	font-weight: 900;
+}
+
+.content {
+	margin-left: 25%;
+}
+
+.card {
+	margin: 3em 0 0 3em;
+	width: 320px;
+	height: 518px;
+	background: #444;
+	color: #fff;
+	border: 9px #aaa solid;
+	text-align: center;
+	line-height: 4em;
+
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+
+	-webkit-animation: easeIn 0.75s;
+	-moz-animation: easeIn 0.75s;
+	-o-animation: easeIn 0.75s;
+	animation: easeIn 0.75s; 
+}
+
+.reading {
+	margin: 3em;
+	text-align: center;
+
+	-webkit-animation: easeIn 0.75s;
+	-moz-animation: easeIn 0.75s;
+	-o-animation: easeIn 0.75s;
+	animation: easeIn 0.75s; 
+}
+
+@keyframes easeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@-moz-keyframes easeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@-webkit-keyframes easeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@-o-keyframes easeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
