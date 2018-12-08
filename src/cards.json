@@ -1,0 +1,314 @@
+[
+	{
+		"url": "/assets/tarot/Chariot.jpg",
+		"name": "The Chariot"
+	},
+	{
+		"url": "/assets/tarot/Cups01.jpg",
+		"name": "Ace of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups02.jpg",
+		"name": "Two of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups03.jpg",
+		"name": "Three of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups04.jpg",
+		"name": "Four of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups05.jpg",
+		"name": "Five of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups06.jpg",
+		"name": "Six of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups07.jpg",
+		"name": "Seven of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups08.jpg",
+		"name": "Eight of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups09.jpg",
+		"name": "Nine of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups10.jpg",
+		"name": "Ten of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups11.jpg",
+		"name": "Page of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups12.jpg",
+		"name": "Knight of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups13.jpg",
+		"name": "Queen of Cups"
+	},
+	{
+		"url": "/assets/tarot/Cups14.jpg",
+		"name": "King of Cups"
+	},
+	{
+		"url": "/assets/tarot/Death.jpg",
+		"name": "Death"
+	},
+	{
+		"url": "/assets/tarot/Devil.jpg",
+		"name": "The Devil"
+	},
+	{
+		"url": "/assets/tarot/Emperor.jpg",
+		"name": "The Emperor"
+	},
+	{
+		"url": "/assets/tarot/Empress.jpg",
+		"name": "The Empress"
+	},
+	{
+		"url": "/assets/tarot/Fool.jpg",
+		"name": "The Fool"
+	},
+	{
+		"url": "/assets/tarot/Hanged_Man.jpg",
+		"name": "The Hanged Man"
+	},
+	{
+		"url": "/assets/tarot/Hermit.jpg",
+		"name": "The Hermit"
+	},
+	{
+		"url": "/assets/tarot/Hierophant.jpg",
+		"name": "The Heirophant"
+	},
+	{
+		"url": "/assets/tarot/High_Priestess.jpg",
+		"name": "The High Priestess"
+	},
+	{
+		"url": "/assets/tarot/Judgement.jpg",
+		"name": "Judgement"
+	},
+	{
+		"url": "/assets/tarot/Justice.jpg",
+		"name": "Justice"
+	},
+	{
+		"url": "/assets/tarot/Lovers.jpg",
+		"name": "The Lovers"
+	},
+	{
+		"url": "/assets/tarot/Magician.jpg",
+		"name": "The Magician"
+	},
+	{
+		"url": "/assets/tarot/Moon.jpg",
+		"name": "The Moon"
+	},
+	{
+		"url": "/assets/tarot/Pents01.jpg",
+		"name": "Ace of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents02.jpg",
+		"name": "Two of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents03.jpg",
+		"name": "Three of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents04.jpg",
+		"name": "Four of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents05.jpg",
+		"name": "Five of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents06.jpg",
+		"name": "Six of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents07.jpg",
+		"name": "Seven of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents08.jpg",
+		"name": "Eight of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents09.jpg",
+		"name": "Nine of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents10.jpg",
+		"name": "Ten of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents11.jpg",
+		"name": "Page of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents12.jpg",
+		"name": "Knight of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents13.jpg",
+		"name": "Queen of Pentacles"
+	},
+	{
+		"url": "/assets/tarot/Pents14.jpg",
+		"name": "King of Pencacles"
+	},
+	{
+		"url": "/assets/tarot/Star.jpg",
+		"name": "The Star"
+	},
+	{
+		"url": "/assets/tarot/Strength.jpg",
+		"name": "Strength"
+	},
+	{
+		"url": "/assets/tarot/Sun.jpg",
+		"name": "The Sun"
+	},
+	{
+		"url": "/assets/tarot/Swords01.jpg",
+		"name": "Ace of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords02.jpg",
+		"name": "Two of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords03.jpg",
+		"name": "Three of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords04.jpg",
+		"name": "Four of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords05.jpg",
+		"name": "Five of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords06.jpg",
+		"name": "Six of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords07.jpg",
+		"name": "Seven of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords08.jpg",
+		"name": "Eight of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords09.jpg",
+		"name": "Nine of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords10.jpg",
+		"name": "Ten of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords11.jpg",
+		"name": "Page of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords12.jpg",
+		"name": "Knight of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords13.jpg",
+		"name": "Queen of Swords"
+	},
+	{
+		"url": "/assets/tarot/Swords14.jpg",
+		"name": "King of Swords"
+	},
+	{
+		"url": "/assets/tarot/Temperance.jpg",
+		"name": "Temperance"
+	},
+	{
+		"url": "/assets/tarot/Tower.jpg",
+		"name": "The Tower"
+	},
+	{
+		"url": "/assets/tarot/Wands01.jpg",
+		"name": "Ace of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands02.jpg",
+		"name": "Two of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands03.jpg",
+		"name": "Three of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands04.jpg",
+		"name": "Four of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands05.jpg",
+		"name": "Five of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands06.jpg",
+		"name": "Six of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands07.jpg",
+		"name": "Seven of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands08.jpg",
+		"name": "Eight of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands09.jpg",
+		"name": "Nine of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands10.jpg",
+		"name": "Ten of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands11.jpg",
+		"name": "Page of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands12.jpg",
+		"name": "Knight of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands13.jpg",
+		"name": "Queen of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wands14.jpg",
+		"name": "King of Wands"
+	},
+	{
+		"url": "/assets/tarot/Wheel_of_Fortune.jpg",
+		"name": "The Wheel of Fortune"
+	},
+	{
+		"url": "/assets/tarot/World.jpg",
+		"name": "The world"
+	}
+]

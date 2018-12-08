@@ -1,61 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Fondamento|Open+Sans');
+
+* {
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
 html, body {
-	font-family: sans-serif;
 	background: #000;
 	color: #ddd;
 }
 
-.sidebar {
-	position: fixed;
-	top: 0;
-	bottom: 0;
-	background: #000 url('/grid.jpg') no-repeat top left;
-	border-right: 1px #444 dotted;
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14pt;
 }
 
-.head {
-	margin-top: 14em;
+h1 {
+	font-family: 'Fondamento', cursive;
+	font-size: 38pt;
+}
+
+h2 {
+	font-family: 'Fondamento', cursive;
+	font-size: 24pt;
+}
+
+code {
+}
+
+.layout {
+	padding: 0;
+}
+
+.bar {
+	background: #000 url('/assets/grid.jpg') no-repeat top left;
+	border-bottom: 1px #444 dotted;
+}
+
+.header {
+	top: auto;
+	text-align: center;
+	margin-bottom: 3em;
+}
+
+.header > p {
+	margin: 3em;
+	font-weight: 900;
+	line-height: 1.5em;
 	text-align: center;
 }
 
-.head p {
-	margin-left: 2em;
-	margin-right: 2em;
-	font-weight: 900;
+.pure-button-primary {
+	background: #880000;
 }
 
 .content {
-	margin-left: 25%;
+	margin: 0;
 }
 
 .card {
-	margin: 3em 0 0 3em;
-	width: 320px;
-	height: 518px;
+	-webkit-animation: easeIn 0.75s;
+	-moz-animation: easeIn 0.75s;
+	-o-animation: easeIn 0.75s;
+	animation: easeIn 0.75s; 
+}
+
+.card > img {
+	display: block;
+	margin: 3em auto 0 auto;
+	width: 200px;
+	height: 324px;
 	background: #444;
-	color: #fff;
-	border: 9px #aaa solid;
-	text-align: center;
-	line-height: 4em;
+	border: 9px #ddd solid;
 
 	-webkit-border-radius: 9px;
 	-moz-border-radius: 9px;
 	border-radius: 9px;
+}
 
-	-webkit-animation: easeIn 0.75s;
-	-moz-animation: easeIn 0.75s;
-	-o-animation: easeIn 0.75s;
-	animation: easeIn 0.75s; 
+.card > p {
+	text-align: center;
+	font-style: italic;
+	font-size: 90%;
+	color: #666;
 }
 
 .reading {
-	margin: 3em;
-	text-align: center;
+	margin: 1.5em auto;
+	border-top: 1px #444 dotted;
 
 	-webkit-animation: easeIn 0.75s;
 	-moz-animation: easeIn 0.75s;
 	-o-animation: easeIn 0.75s;
 	animation: easeIn 0.75s; 
 }
+
+.reading h2 {
+	text-align: center;
+	max-width: 30em;
+	margin: 1em auto;
+}
+
+.reading p {
+	text-align: justify;
+	max-width: 30em;
+	margin: 0 auto;
+}
+
+@media screen and (min-width: 64em) {
+	.bar {
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		border-right: 1px #444 dotted;
+	}
+
+	.header {
+		margin-top: 7em;
+	}
+
+	.content {
+		margin-left: 25%;
+	}
+}
+
+@media screen and (min-width: 90em) {
+	.header {
+		margin-top: 12em;
+	}
+
+	.card {
+		width: 300px;
+		height: 518px;
+	}
+}
+
+/*
+ * Animations
+ */
 
 @keyframes easeIn {
 	from { opacity: 0; }
